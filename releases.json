@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUpwL2lCVlVYVTFDbVgrYStmejFMSC9aQjFkdUZtclB0YWZvLzFYdk1EaVVOSmJDa0xZRU1SdFlnVU1JUkRMWDk4Zk1UYTRzTHd6czNzSyt5eEdjaXJOU2dPb2NyVHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MDAxODAyCWZpbGU6dG9tb18wLjEuMF94NjQtc2V0dXAuZXhlCmxYSVBHRUdZd0FucUJ0SFpERkY5TnhVS0U4ZUYvQ2FmazMxLzR0L1hjRmRURnVDMVRvWmUzcDQvU2JsYUtZTVJkeGt2VFZaUGE3RGxua1d6ODRmTENBPT0K",
-                                             "url":  "https://github.com/AmirSolt/tomo-releases/releases/download/v0.1.1/tomo_0.1.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUpwL2lCVlVYVTVCRUNJVEFDTS9CemdwSTdaaGJydXdGaS9jNGR0MTlCZHZjeE1hVlBaQWRqSjBBMnVHaXNpVzd1enppdzhOS3VURkVpdk56T3hsZ1ZYTW1Dc0xremdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTMyNjEzCWZpbGU6dG9tb18wLjEuMV94NjQtc2V0dXAuZXhlCjJDSGlSMG9ZRGtkbzBpZzZBY0k3UFl0TDFkbUVUd3FVNmpDMXl4MnF1b2xjODc5dWpndU1hMHRaQ0VPRlY1eTdhKzBJVVBQWldGTjFlZWhWNUhlbEJnPT0K",
+                                             "url":  "https://github.com/AmirSolt/tomo-releases/releases/download/v0.1.1/tomo_0.1.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2025-12-19T08:03:29Z",
+    "pub_date":  "2025-12-19T08:23:35Z",
     "version":  "v0.1.1",
     "notes":  "Update to v0.1.1"
 }
